@@ -23,6 +23,10 @@ I recently came up with a game idea in wihch fog of war will play a huge role, b
 ## 🎥 Video <a name = "video"></a>
 
 
+https://github.com/xddemir/Unity-FogOfWar/assets/56155535/267862f8-08ff-4f33-bbce-a6b0c3ce91cf
+
+
+
 ## What is Fog Of War? <a name = "whatisfogofwar"></a>
 Fog of war is a term that refers to describe the uncertainty in situation awareness experienced for militars in military operations. However, in video games, the fog of war reffers to giving the player partial information of a certain area, which makes the player re-think the strategy of the gameplay taking in account the leaking information.
 
