@@ -23,7 +23,10 @@ I recently came up with a game idea in wihch fog of war will play a huge role, b
 ## 🎥 Video <a name = "video"></a>
 
 
-https://github.com/xddemir/Unity-FogOfWar/assets/56155535/267862f8-08ff-4f33-bbce-a6b0c3ce91cf
+
+https://github.com/xddemir/Unity-FogOfWar/assets/56155535/9fc68425-db2d-4a7d-80dc-2c2711277a2b
+
+
 
 
 
