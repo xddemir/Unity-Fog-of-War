@@ -18,7 +18,7 @@
 - [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
-I recently came up with a game idea in wihch fog of war will play a huge role, but was unable to find proper implementation. Therefore I tried to gather all information that i found and made n cheap example of it. you will be able to play along with my demo, learning what lays under the hood.
+I recently came up with a game idea in which fog of war will play a huge role, but was unable to find proper implementation, i tried to gather as much information as possible, that i found and made a cheap example of it, which you will be able to play along with, learning what lays under the hood.
 
 ## 🎥 Video <a name = "video"></a>
 
