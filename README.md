@@ -15,6 +15,7 @@
 - [What is Fog Of War?](#whatisfogofwar)
 - [How does it work?](#howdoesitwork)
 - [Contact](#Contact)
+- [Notes](#Notes)
 - [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
@@ -36,6 +37,9 @@ Fog of war is a term that refers to describe the uncertainty in situation awaren
 ## How does this work? <a name = "howdoesitwork"></a>
 `FogOfWar.cs` includes all mechanism to use fog in this particular project. It raycasts the obstacles and renders vertexes by the radiant angle which means each line that touches the obstacles does not go through therefore it creates triangular meshes. `StencilShader.shader` creates a layermask for actual scene and makes scene objects invisible. Once we play the scene objects with stencil are rendered properly. 
 
+## Notes <a name = "Notes"> </a>
+- **_URP not compatible now_**
+- **_Download additional standart fps controller package_**
 
 ## ✍️ Contact <a name = "Contact"></a>
 
